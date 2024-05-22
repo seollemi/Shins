@@ -74,6 +74,9 @@ nav a.no-hover:hover {
         display: flex;
         
     }
+    .cls {
+        max-height: 500px !important;
+    }
 }
 .sidebar{
     position: fixed;
