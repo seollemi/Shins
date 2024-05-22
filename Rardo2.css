@@ -275,6 +275,9 @@ nav a.no-hover:hover {
     text-align: center;
     font-weight: 800;
 }
+.text-center1 {
+    text-align: center;
+}
 
 .carousel-container {
     max-width: 800px; /* Adjust this value to make the carousel bigger or smaller */
