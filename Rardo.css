@@ -55,6 +55,15 @@ nav a.no-hover:hover {
     background-color: transparent; 
     cursor: default; 
 }
+.sticky-nav {
+    position: -webkit-sticky; /* For Safari */
+    position: sticky; /* For other modern browsers */
+    top: 0;
+    z-index: 1000;
+    background-color: white;
+    border-bottom: 1px solid #ddd;
+    text-decoration: none;
+}
 .menu-button {
     display: none;
     margin-left: auto;
